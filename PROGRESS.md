@@ -4,6 +4,10 @@
 - - Defined project scope for WiFi Evil Twin detection
 - - Outlined core modules: scanner, analyzer, dashboard
 
+## May 2, 2026
+- - Researched evil twin attack patterns and BSSID spoofing
+- - Documented threat model for open and WPA2 networks
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
