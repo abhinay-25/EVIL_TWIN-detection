@@ -8,6 +8,10 @@
 - - Researched evil twin attack patterns and BSSID spoofing
 - - Documented threat model for open and WPA2 networks
 
+## May 3, 2026
+- - Drafted functional requirements for scan and alert workflow
+- - Listed target platforms: Windows with PyWiFi support
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
