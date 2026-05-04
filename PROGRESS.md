@@ -12,6 +12,10 @@
 - - Drafted functional requirements for scan and alert workflow
 - - Listed target platforms: Windows with PyWiFi support
 
+## May 4, 2026
+- - Evaluated PyWiFi for wireless interface access
+- - Verified local adapter enumeration on development machine
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
