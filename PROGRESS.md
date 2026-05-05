@@ -16,6 +16,10 @@
 - - Evaluated PyWiFi for wireless interface access
 - - Verified local adapter enumeration on development machine
 
+## May 5, 2026
+- - Created initial Flask application skeleton
+- - Added health-check route for local development
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
