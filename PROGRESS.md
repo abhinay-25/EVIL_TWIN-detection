@@ -20,6 +20,10 @@
 - - Created initial Flask application skeleton
 - - Added health-check route for local development
 
+## May 6, 2026
+- - Designed REST endpoints for scan and results
+- - Planned JSON response schema for network list
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
