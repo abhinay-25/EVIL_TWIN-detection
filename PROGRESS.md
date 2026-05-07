@@ -24,6 +24,10 @@
 - - Designed REST endpoints for scan and results
 - - Planned JSON response schema for network list
 
+## May 7, 2026
+- - Set up project virtual environment and dependencies
+- - Locked baseline versions in requirements.txt
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
