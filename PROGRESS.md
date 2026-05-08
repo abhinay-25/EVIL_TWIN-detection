@@ -28,6 +28,10 @@
 - - Set up project virtual environment and dependencies
 - - Locked baseline versions in requirements.txt
 
+## May 8, 2026
+- - Prototyped basic WiFi scan invocation
+- - Logged raw scan result fields for analysis
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
