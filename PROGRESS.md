@@ -32,6 +32,10 @@
 - - Prototyped basic WiFi scan invocation
 - - Logged raw scan result fields for analysis
 
+## May 9, 2026
+- - Implemented scan retry handling for empty results
+- - Added guard when no wireless interface is found
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
