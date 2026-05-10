@@ -36,6 +36,10 @@
 - - Implemented scan retry handling for empty results
 - - Added guard when no wireless interface is found
 
+## May 10, 2026
+- - Grouped scan results by SSID in memory
+- - Stored BSSID and signal pairs per network name
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
