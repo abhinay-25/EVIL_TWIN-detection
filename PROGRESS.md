@@ -40,6 +40,10 @@
 - - Grouped scan results by SSID in memory
 - - Stored BSSID and signal pairs per network name
 
+## May 11, 2026
+- - Filtered hidden and empty SSID entries
+- - Normalized signal values for downstream scoring
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
