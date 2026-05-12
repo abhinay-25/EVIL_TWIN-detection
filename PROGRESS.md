@@ -44,6 +44,10 @@
 - - Filtered hidden and empty SSID entries
 - - Normalized signal values for downstream scoring
 
+## May 12, 2026
+- - Extracted scanner logic into scanner.py module
+- - Reduced coupling from Flask route handlers
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
