@@ -48,6 +48,10 @@
 - - Extracted scanner logic into scanner.py module
 - - Reduced coupling from Flask route handlers
 
+## May 13, 2026
+- - Tuned scan wait interval for stable result sets
+- - Tested repeated scans for consistency
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
