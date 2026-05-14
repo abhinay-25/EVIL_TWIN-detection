@@ -52,6 +52,10 @@
 - - Tuned scan wait interval for stable result sets
 - - Tested repeated scans for consistency
 
+## May 14, 2026
+- - Started analyzer module with duplicate BSSID detection
+- - Assigned initial risk points for multiple BSSIDs
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
