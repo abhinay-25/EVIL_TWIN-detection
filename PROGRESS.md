@@ -56,6 +56,10 @@
 - - Started analyzer module with duplicate BSSID detection
 - - Assigned initial risk points for multiple BSSIDs
 
+## May 15, 2026
+- - Added strong-signal anomaly rule above -50 dBm
+- - Recorded human-readable reasons per SSID
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
