@@ -60,6 +60,10 @@
 - - Added strong-signal anomaly rule above -50 dBm
 - - Recorded human-readable reasons per SSID
 
+## May 16, 2026
+- - Implemented signal spread check across duplicate SSIDs
+- - Flagged large dBm differences as suspicious
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
