@@ -64,6 +64,10 @@
 - - Implemented signal spread check across duplicate SSIDs
 - - Flagged large dBm differences as suspicious
 
+## May 17, 2026
+- - Defined SAFE, SUSPICIOUS, and HIGH RISK thresholds
+- - Mapped numeric scores to status labels
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
