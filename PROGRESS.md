@@ -68,6 +68,10 @@
 - - Defined SAFE, SUSPICIOUS, and HIGH RISK thresholds
 - - Mapped numeric scores to status labels
 
+## May 18, 2026
+- - Connected analyzer output to API response payload
+- - Returned reasons array for dashboard display
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
