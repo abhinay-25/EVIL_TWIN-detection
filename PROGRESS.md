@@ -72,6 +72,10 @@
 - - Connected analyzer output to API response payload
 - - Returned reasons array for dashboard display
 
+## May 19, 2026
+- - Built base HTML layout for monitoring dashboard
+- - Added Tailwind CSS via CDN for rapid UI iteration
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
