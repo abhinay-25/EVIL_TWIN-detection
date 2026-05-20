@@ -76,6 +76,10 @@
 - - Built base HTML layout for monitoring dashboard
 - - Added Tailwind CSS via CDN for rapid UI iteration
 
+## May 20, 2026
+- - Created network results table with status badges
+- - Color-coded HIGH RISK rows for quick triage
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
