@@ -80,6 +80,10 @@
 - - Created network results table with status badges
 - - Color-coded HIGH RISK rows for quick triage
 
+## May 21, 2026
+- - Added manual rescan button and loading state
+- - Wired frontend fetch call to scan endpoint
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
