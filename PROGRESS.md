@@ -84,6 +84,10 @@
 - - Added manual rescan button and loading state
 - - Wired frontend fetch call to scan endpoint
 
+## May 22, 2026
+- - Integrated Chart.js for signal distribution view
+- - Plotted per-SSID signal bars from scan data
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
