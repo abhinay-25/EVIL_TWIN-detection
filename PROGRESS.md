@@ -88,6 +88,10 @@
 - - Integrated Chart.js for signal distribution view
 - - Plotted per-SSID signal bars from scan data
 
+## May 23, 2026
+- - Improved dashboard empty-state messaging
+- - Handled no-network and scan-error scenarios
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
