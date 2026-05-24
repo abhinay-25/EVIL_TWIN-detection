@@ -92,6 +92,10 @@
 - - Improved dashboard empty-state messaging
 - - Handled no-network and scan-error scenarios
 
+## May 24, 2026
+- - Refined mobile-friendly responsive layout
+- - Adjusted table overflow for smaller screens
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
