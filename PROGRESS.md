@@ -96,6 +96,10 @@
 - - Refined mobile-friendly responsive layout
 - - Adjusted table overflow for smaller screens
 
+## May 25, 2026
+- - Authored README overview and feature list
+- - Documented local setup and run instructions
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
