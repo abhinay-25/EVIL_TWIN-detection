@@ -100,6 +100,10 @@
 - - Authored README overview and feature list
 - - Documented local setup and run instructions
 
+## May 26, 2026
+- - Captured dashboard and risk alert screenshots
+- - Added image assets for repository documentation
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
