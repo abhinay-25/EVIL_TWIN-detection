@@ -104,6 +104,10 @@
 - - Captured dashboard and risk alert screenshots
 - - Added image assets for repository documentation
 
+## May 27, 2026
+- - Wrote WiFi fundamentals reference notes
+- - Explained SSID, BSSID, and RSSI concepts for reviewers
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
