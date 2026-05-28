@@ -108,6 +108,10 @@
 - - Wrote WiFi fundamentals reference notes
 - - Explained SSID, BSSID, and RSSI concepts for reviewers
 
+## May 28, 2026
+- - Documented end-to-end code flow
+- - Traced scan, analyze, and render pipeline
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
