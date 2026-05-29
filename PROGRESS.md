@@ -112,6 +112,10 @@
 - - Documented end-to-end code flow
 - - Traced scan, analyze, and render pipeline
 
+## May 29, 2026
+- - Performed manual test pass with nearby networks
+- - Logged false-positive cases for threshold review
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
