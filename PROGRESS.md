@@ -116,6 +116,10 @@
 - - Performed manual test pass with nearby networks
 - - Logged false-positive cases for threshold review
 
+## May 30, 2026
+- - Tweaked risk weights after field testing
+- - Balanced BSSID and signal anomaly contributions
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
