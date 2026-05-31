@@ -120,6 +120,10 @@
 - - Tweaked risk weights after field testing
 - - Balanced BSSID and signal anomaly contributions
 
+## May 31, 2026
+- - Cleaned up module imports and naming
+- - Removed debug prints from scan path
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
