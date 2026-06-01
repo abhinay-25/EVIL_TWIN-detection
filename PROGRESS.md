@@ -124,6 +124,10 @@
 - - Cleaned up module imports and naming
 - - Removed debug prints from scan path
 
+## June 1, 2026
+- - Finalized analyzer edge-case handling for single-BSSID SSIDs
+- - Ensured ASCII-safe SSID encoding in output
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
