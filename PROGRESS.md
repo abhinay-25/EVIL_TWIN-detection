@@ -128,6 +128,10 @@
 - - Finalized analyzer edge-case handling for single-BSSID SSIDs
 - - Ensured ASCII-safe SSID encoding in output
 
+## June 2, 2026
+- - Completed pre-release checklist for core detection flow
+- - Verified scan-to-dashboard path on Windows host
+
 ## July 10, 2026
 - Initialized WiFi network scanner module using PyWiFi
 - Implemented SSID grouping and BSSID deduplication in scanner.py
