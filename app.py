@@ -19,6 +19,6 @@ def index():
             summary[net["status"]] += 1
 
     return render_template("index.html", data=analyzed, summary=summary)
-
+      
 if __name__ == "__main__":
     app.run(debug=True)
