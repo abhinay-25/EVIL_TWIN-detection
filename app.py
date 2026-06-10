@@ -10,7 +10,7 @@ def index():
     analyzed = analyze_networks(networks)   
     # Summary for chart       
     summary = {"SAFE": 0, "SUSPICIOUS": 0, "HIGH_RISK": 0}
-
+   
     for net in analyzed:
            
         if net["status"] == "HIGH RISK":
