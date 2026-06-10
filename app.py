@@ -5,7 +5,7 @@ from analyzer import analyze_networks
 app = Flask(__name__)
     
 @app.route("/")
-def index():
+def index():     
     networks = scan_networks()
     analyzed = analyze_networks(networks)   
     # Summary for chart       
