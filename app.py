@@ -3,12 +3,12 @@ from scanner import scan_networks
 from analyzer import analyze_networks
 
 app = Flask(__name__)
-
+    
 @app.route("/")
 def index():
     networks = scan_networks()
     analyzed = analyze_networks(networks)   
-    # Summary for chart
+    # Summary for chart       
     summary = {"SAFE": 0, "SUSPICIOUS": 0, "HIGH_RISK": 0}
 
     for net in analyzed:
