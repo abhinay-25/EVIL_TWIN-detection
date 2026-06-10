@@ -12,6 +12,7 @@ def index():
     summary = {"SAFE": 0, "SUSPICIOUS": 0, "HIGH_RISK": 0}
 
     for net in analyzed:
+        
         if net["status"] == "HIGH RISK":
             summary["HIGH_RISK"] += 1
         else:
