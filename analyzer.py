@@ -18,7 +18,7 @@ def analyze_networks(networks):
         for signal in signals:
             if signal > -50:
                 risk_score += 20
-                reasons.append("Unusually strong signal")
+                reasons.append("Unusually strong signal")     
 
         if len(signals) > 1:
             diff = max(signals) - min(signals)
