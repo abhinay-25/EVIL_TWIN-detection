@@ -9,7 +9,7 @@ def analyze_networks(networks):
         reasons = []
 
         unique_entries = list(bssids.items())
-        signals = [signal for _, signal in unique_entries]
+        signals = [signal for _, signal in unique_entries]    
 
         if len(unique_entries) > 1:
             risk_score += 40
