@@ -27,7 +27,7 @@ def analyze_networks(networks):
                 reasons.append("Large signal strength difference")          
        
         if risk_score >= 70:
-            status = "HIGH RISK"
+            status = "HIGH RISK"              
         elif risk_score >= 30:
             status = "SUSPICIOUS"
         else:
