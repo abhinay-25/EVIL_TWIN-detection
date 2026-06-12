@@ -29,7 +29,7 @@ def analyze_networks(networks):
         if risk_score >= 70:
             status = "HIGH RISK"              
         elif risk_score >= 30:
-            status = "SUSPICIOUS"
+            status = "SUSPICIOUS"              
         else:
             status = "SAFE"           
 
