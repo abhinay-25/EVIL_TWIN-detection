@@ -35,7 +35,7 @@ def analyze_networks(networks):
 
         analyzed_data.append({
             "ssid": safe_ssid,
-            "risk": risk_score,
+            "risk": risk_score,       
             "status": status,
             "reasons": list(set(reasons)),
             "details": unique_entries
