@@ -31,7 +31,7 @@ def analyze_networks(networks):
         elif risk_score >= 30:
             status = "SUSPICIOUS"
         else:
-            status = "SAFE"
+            status = "SAFE"           
 
         analyzed_data.append({
             "ssid": safe_ssid,
