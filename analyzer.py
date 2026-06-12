@@ -41,4 +41,4 @@ def analyze_networks(networks):
             "details": unique_entries
         })
 
-    return analyzed_data              
+    return analyzed_data                           
