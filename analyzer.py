@@ -16,7 +16,7 @@ def analyze_networks(networks):
             reasons.append("Multiple BSSID detected")    
                                         
         for signal in signals:
-            if signal > -50:
+            if signal > -50:                                          
                 risk_score += 20
                 reasons.append("Unusually strong signal")     
 
