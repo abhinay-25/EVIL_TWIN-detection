@@ -11,7 +11,7 @@ def analyze_networks(networks):
         unique_entries = list(bssids.items())
         signals = [signal for _, signal in unique_entries]                    
 
-        if len(unique_entries) > 1:
+        if len(unique_entries) > 1:                          
             risk_score += 40
             reasons.append("Multiple BSSID detected")    
 
