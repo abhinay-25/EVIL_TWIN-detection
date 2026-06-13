@@ -39,6 +39,6 @@ def analyze_networks(networks):
             "status": status,
             "reasons": list(set(reasons)),                  
             "details": unique_entries
-        })
+        })           
 
     return analyzed_data                           
