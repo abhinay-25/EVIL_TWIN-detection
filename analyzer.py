@@ -1,7 +1,7 @@
 def analyze_networks(networks):
     analyzed_data = []
 
-    for ssid, bssids in networks.items():
+    for ssid, bssids in networks.items():                          
 
         safe_ssid = ssid.encode('ascii', 'ignore').decode()
 
